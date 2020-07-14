@@ -1,0 +1,14 @@
+{
+  id: restaurant.id,
+  name: restaurant.name,
+  location: restaurant.location,
+  cuisine: restaurant.cuisine,
+  service: restaurant.service,
+  instagram: restaurant.instagram,
+  phone: restaurant.phone,
+  website: restaurant.website,
+  other: restaurant.other,
+  lat: restaurant.lat,
+  long: restaurant.long,
+  address: restaurant.address
+}
