@@ -44,7 +44,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "",
     "phone": "510-995-8644",
-    "website": "www.facebook.com/SpritzersCafe/",
+    "website": "https://www.facebook.com/SpritzersCafe/",
     "other": ""
   },
   {
@@ -64,7 +64,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@juanitaandmaude",
     "phone": "510-526-2233",
-    "website": "www.juanitaandmaude.com/",
+    "website": "https://www.juanitaandmaude.com/",
     "other": ""
   },
   {
@@ -94,7 +94,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Catering",
     "instagram": "@chef_bebe",
     "phone": "925-635-8076",
-    "website": "www.bebepreston.com",
+    "website": "https://www.bebepreston.com",
     "other": ""
   },
   {
@@ -104,7 +104,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "",
     "phone": "925-481-2706",
-    "website": "www.solidrockcafe.us/",
+    "website": "https://www.solidrockcafe.us/",
     "other": ""
   },
   {
@@ -144,7 +144,7 @@ restaurants = Restaurant.create([
     "service": "Delivery",
     "instagram": "@waytolifefoods",
     "phone": "510-517-4244",
-    "website": "www.waytolifefoods.com/",
+    "website": "https://www.waytolifefoods.com/",
     "other": ""
   },
   {
@@ -164,7 +164,7 @@ restaurants = Restaurant.create([
     "service": "Delivery",
     "instagram": "@agirlnamedpinky",
     "phone": "510-631-6174",
-    "website": "www.agirlnamedpinky.com/",
+    "website": "https://www.agirlnamedpinky.com/",
     "other": ""
   },
   {
@@ -174,7 +174,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@alchemycollective",
     "phone": "510-394-4758",
-    "website": "www.alchemycollectivecafe.com/",
+    "website": "https://www.alchemycollectivecafe.com/",
     "other": ""
   },
   {
@@ -194,7 +194,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@cali.alley",
     "phone": "510-644-4473",
-    "website": "www.calialley.com",
+    "website": "https://www.calialley.com",
     "other": ""
   },
   {
@@ -244,7 +244,7 @@ restaurants = Restaurant.create([
     "service": "Temp. closed",
     "instagram": "",
     "phone": "510-883-0167",
-    "website": "www.finfine.com",
+    "website": "https://www.finfine.com",
     "other": ""
   },
   {
@@ -274,7 +274,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@kcsbbq",
     "phone": "510-526-6325",
-    "website": "www.kcsbbq.com",
+    "website": "https://www.kcsbbq.com",
     "other": ""
   },
   {
@@ -294,7 +294,7 @@ restaurants = Restaurant.create([
     "service": "Delivery",
     "instagram": "@layersbyxanthe",
     "phone": "",
-    "website": "www.layersbyxanthe.com/",
+    "website": "https://www.layersbyxanthe.com/",
     "other": ""
   },
   {
@@ -304,7 +304,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@lemat_ethiopian_restaurant",
     "phone": "510-430-2717",
-    "website": "www.lemateats.com/",
+    "website": "https://www.lemateats.com/",
     "other": ""
   },
   {
@@ -324,7 +324,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@nuttin_buttercookies",
     "phone": "510-610-2303",
-    "website": "www.nuttinbuttercookies.com ",
+    "website": "https://www.nuttinbuttercookies.com ",
     "other": ""
   },
   {
@@ -334,7 +334,7 @@ restaurants = Restaurant.create([
     "service": "Delivery, Catering",
     "instagram": "@pietisserie",
     "phone": "",
-    "website": "www.pietisserie.com",
+    "website": "https://www.pietisserie.com",
     "other": ""
   },
   {
@@ -344,7 +344,7 @@ restaurants = Restaurant.create([
     "service": "Temp. closed",
     "instagram": "@pinkyandreds",
     "phone": "",
-    "website": "www.pinkyandreds.com/",
+    "website": "https://www.pinkyandreds.com/",
     "other": ""
   },
   {
@@ -354,7 +354,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@rasacaffe",
     "phone": "",
-    "website": "www.rasacaffe.com/",
+    "website": "https://www.rasacaffe.com/",
     "other": ""
   },
   {
@@ -374,7 +374,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Outdoor Dine-in",
     "instagram": "@busterssouthernbbq",
     "phone": "707-942-5605",
-    "website": "www.busterssouthernbbq.com/welcome.html",
+    "website": "https://www.busterssouthernbbq.com/welcome.html",
     "other": ""
   },
   {
@@ -394,7 +394,7 @@ restaurants = Restaurant.create([
     "service": "Catering",
     "instagram": "@paperrockfork",
     "phone": "925-391-0121",
-    "website": "www.paperrockfork.com/",
+    "website": "https://www.paperrockfork.com/",
     "other": ""
   },
   {
@@ -404,7 +404,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@binstagramcountrykitchenllc",
     "phone": "925-822-3009",
-    "website": "www.binstagramcountrykitchenllc.com",
+    "website": "https://www.binstagramcountrykitchenllc.com",
     "other": ""
   },
   {
@@ -424,7 +424,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@purejuicelounge",
     "phone": "925-375-1376",
-    "website": "www.purejuiceandsmoothie.com/",
+    "website": "https://www.purejuiceandsmoothie.com/",
     "other": ""
   },
   {
@@ -454,7 +454,7 @@ restaurants = Restaurant.create([
     "service": "Temp. closed",
     "instagram": "@sugartowncafe",
     "phone": "510-722-3220",
-    "website": "www.sugartowncafe.com/",
+    "website": "https://www.sugartowncafe.com/",
     "other": ""
   },
   {
@@ -464,7 +464,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@keithschickenandwaffles",
     "phone": "415-347-7208",
-    "website": "www.keithschickennwaffles.com",
+    "website": "https://www.keithschickennwaffles.com",
     "other": ""
   },
   {
@@ -474,7 +474,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@redshousesf",
     "phone": "",
-    "website": "www.eatreds.com",
+    "website": "https://www.eatreds.com",
     "other": "Meal Donations"
   },
   {
@@ -484,7 +484,7 @@ restaurants = Restaurant.create([
     "service": "Delivery",
     "instagram": "@stephaniegingersnapshots",
     "phone": "650-307-9301",
-    "website": "www.stephaniesgingersnapshots.com/",
+    "website": "https://www.stephaniesgingersnapshots.com/",
     "other": ""
   },
   {
@@ -494,7 +494,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "",
     "phone": "650-323-1092",
-    "website": "www.facebook.com/jonathansfishnchips/",
+    "website": "https://www.facebook.com/jonathansfishnchips/",
     "other": ""
   },
   {
@@ -504,7 +504,7 @@ restaurants = Restaurant.create([
     "service": "Delivery",
     "instagram": "",
     "phone": "650-307-9301",
-    "website": "www.facebook.com/TheCocktailChick/",
+    "website": "https://www.facebook.com/TheCocktailChick/",
     "other": ""
   },
   {
@@ -534,7 +534,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@minnie_bells",
     "phone": "510-879-7199",
-    "website": "www.minniebellssoul.com/",
+    "website": "https://www.minniebellssoul.com/",
     "other": "Employee relief fund"
   },
   {
@@ -544,7 +544,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@robbens_restaurant",
     "phone": "510-250-9636",
-    "website": "www.instagram.com/robbens_restaurant/",
+    "website": "https://www.instagram.com/robbens_restaurant/",
     "other": ""
   },
   {
@@ -574,7 +574,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@chezsoul",
     "phone": "707-427-3338",
-    "website": "www.chezsoulsoutherncuisine.com/",
+    "website": "https://www.chezsoulsoutherncuisine.com/",
     "other": ""
   },
   {
@@ -594,7 +594,7 @@ restaurants = Restaurant.create([
     "service": "Delivery, Catering",
     "instagram": "@iloveblisspops",
     "phone": "650-549-4323",
-    "website": "www.iloveblisspops.com",
+    "website": "https://www.iloveblisspops.com",
     "other": ""
   },
   {
@@ -614,7 +614,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "",
     "phone": "510-270-8310",
-    "website": "www.facebook.com/pages/category/Ethiopian-Restaurant/Haleluya-Ethiopian-Gourmet-114027840290429/",
+    "website": "https://www.facebook.com/pages/category/Ethiopian-Restaurant/Haleluya-Ethiopian-Gourmet-114027840290429/",
     "other": ""
   },
   {
@@ -634,7 +634,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "",
     "phone": "510-886-4112",
-    "website": "www.facebook.com/Family-House-of-Fish-and-Poultry-147661838584980/",
+    "website": "https://www.facebook.com/Family-House-of-Fish-and-Poultry-147661838584980/",
     "other": ""
   },
   {
@@ -674,7 +674,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "",
     "phone": "510-471-1502",
-    "website": "www.popsdeliandgrill.com",
+    "website": "https://www.popsdeliandgrill.com",
     "other": ""
   },
   {
@@ -684,7 +684,7 @@ restaurants = Restaurant.create([
     "service": "Delivery",
     "instagram": "@reuschelles",
     "phone": "510-219-2997",
-    "website": "www.reuschelles.com/",
+    "website": "https://www.reuschelles.com/",
     "other": ""
   },
   {
@@ -704,7 +704,7 @@ restaurants = Restaurant.create([
     "service": "Delivery",
     "instagram": "@bodkinwines",
     "phone": "",
-    "website": "www.bodkinwines.com/",
+    "website": "https://www.bodkinwines.com/",
     "other": "Online wine sales"
   },
   {
@@ -724,7 +724,7 @@ restaurants = Restaurant.create([
     "service": "Catering",
     "instagram": "@winecountryfeasts",
     "phone": "707-508-6853",
-    "website": "www.winecountryfeasts.com/",
+    "website": "https://www.winecountryfeasts.com/",
     "other": ""
   },
   {
@@ -804,7 +804,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@thecookoutft",
     "phone": "650-300-9945",
-    "website": "www.facebook.com/thecookoutft",
+    "website": "https://www.facebook.com/thecookoutft",
     "other": ""
   },
   {
@@ -814,7 +814,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, wine shipping",
     "instagram": "@brownestate",
     "phone": "707-963-2435",
-    "website": "www.brownestate.com/",
+    "website": "https://www.brownestate.com/",
     "other": ""
   },
   {
@@ -834,7 +834,7 @@ restaurants = Restaurant.create([
     "service": "Catering",
     "instagram": "@510cajuncatering",
     "phone": "510-393-5388",
-    "website": "www.510cajuncatering.com",
+    "website": "https://www.510cajuncatering.com",
     "other": ""
   },
   {
@@ -844,7 +844,7 @@ restaurants = Restaurant.create([
     "service": "Temp. closed",
     "instagram": "@7thwestoakland",
     "phone": "415-290-6501",
-    "website": "www.7thwest.com",
+    "website": "https://www.7thwest.com",
     "other": "Employee relief fund"
   },
   {
@@ -874,7 +874,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Grocery",
     "instagram": "@manmustwak",
     "phone": "510-444-2841",
-    "website": "www.manmustwak.net",
+    "website": "https://www.manmustwak.net",
     "other": ""
   },
   {
@@ -884,7 +884,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@alamaroakland",
     "phone": "510-907-7555",
-    "website": "www.alamaroakland.com",
+    "website": "https://www.alamaroakland.com",
     "other": ""
   },
   {
@@ -904,7 +904,7 @@ restaurants = Restaurant.create([
     "service": "Online Ordering",
     "instagram": "@arawakfarm",
     "phone": "510-381-1437",
-    "website": "www.vassellfoods.com",
+    "website": "https://www.vassellfoods.com",
     "other": ""
   },
   {
@@ -924,7 +924,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery, Catering",
     "instagram": "@babscateringoakland",
     "phone": "424-388-0368",
-    "website": "www.babscateringoakland.com",
+    "website": "https://www.babscateringoakland.com",
     "other": ""
   },
   {
@@ -944,7 +944,7 @@ restaurants = Restaurant.create([
     "service": "Online Ordering",
     "instagram": "@betterchew",
     "phone": "",
-    "website": "www.somethingbetterfoods.com",
+    "website": "https://www.somethingbetterfoods.com",
     "other": ""
   },
   {
@@ -954,7 +954,7 @@ restaurants = Restaurant.create([
     "service": "Catering",
     "instagram": "@blackberrysoulcatering",
     "phone": "866-278-8788",
-    "website": "www.blackberrysoul.net",
+    "website": "https://www.blackberrysoul.net",
     "other": ""
   },
   {
@@ -964,7 +964,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@bluenileoak",
     "phone": "510-250-9609",
-    "website": "www.bluenilefood.com/",
+    "website": "https://www.bluenilefood.com/",
     "other": ""
   },
   {
@@ -984,7 +984,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@brownsugarkitchen",
     "phone": "510-839-7685",
-    "website": "www.brownsugarkitchen.com/",
+    "website": "https://www.brownsugarkitchen.com/",
     "other": "Donate meals"
   },
   {
@@ -994,7 +994,7 @@ restaurants = Restaurant.create([
     "service": "Online Ordering",
     "instagram": "@brundospices",
     "phone": "510-289-4050",
-    "website": "www.brundo.com",
+    "website": "https://www.brundo.com",
     "other": ""
   },
   {
@@ -1014,7 +1014,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@cafecolucci",
     "phone": "510-473-5944",
-    "website": "www.cafecolucci.com/",
+    "website": "https://www.cafecolucci.com/",
     "other": ""
   },
   {
@@ -1034,7 +1034,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@cafe_dejena",
     "phone": "510-655-9328",
-    "website": "www.cafedejena.com/",
+    "website": "https://www.cafedejena.com/",
     "other": ""
   },
   {
@@ -1054,7 +1054,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@caferomanat",
     "phone": "510-444-1800",
-    "website": "www.caferomanat.com",
+    "website": "https://www.caferomanat.com",
     "other": ""
   },
   {
@@ -1064,7 +1064,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@calaveraoakland",
     "phone": "510-338-3273",
-    "website": "www.calaveraoakland.com",
+    "website": "https://www.calaveraoakland.com",
     "other": ""
   },
   {
@@ -1074,7 +1074,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@canaoakland",
     "phone": "510-832-1515",
-    "website": "www.canaoakland.com",
+    "website": "https://www.canaoakland.com",
     "other": ""
   },
   {
@@ -1084,7 +1084,7 @@ restaurants = Restaurant.create([
     "service": "Catering",
     "instagram": "@carolyncreolekitchen",
     "phone": "510-464-2928",
-    "website": "www.gocreole.co/",
+    "website": "https://www.gocreole.co/",
     "other": ""
   },
   {
@@ -1104,7 +1104,7 @@ restaurants = Restaurant.create([
     "service": "Catering, Meal service",
     "instagram": "@chefcookandrun",
     "phone": "415-312-0990",
-    "website": "www.chefcookandrun.com",
+    "website": "https://www.chefcookandrun.com",
     "other": ""
   },
   {
@@ -1114,7 +1114,7 @@ restaurants = Restaurant.create([
     "service": "Catering, Pop Up",
     "instagram": "@iplay4dawynn",
     "phone": "510-969-9665",
-    "website": "www.wynncatering.com",
+    "website": "https://www.wynncatering.com",
     "other": ""
   },
   {
@@ -1124,7 +1124,7 @@ restaurants = Restaurant.create([
     "service": "Catering, Meal service",
     "instagram": "@chefmichelemcqueen",
     "phone": "",
-    "website": "www.chefmichele.com",
+    "website": "https://www.chefmichele.com",
     "other": ""
   },
   {
@@ -1134,7 +1134,7 @@ restaurants = Restaurant.create([
     "service": "Catering",
     "instagram": "@chefronspastries",
     "phone": "510-629-1592",
-    "website": "www.crpastries.com",
+    "website": "https://www.crpastries.com",
     "other": ""
   },
   {
@@ -1164,7 +1164,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery, Outdoor Dining",
     "instagram": "@oaklandchopbar",
     "phone": "510-834-3467",
-    "website": "www.oaklandchopbar.com",
+    "website": "https://www.oaklandchopbar.com",
     "other": ""
   },
   {
@@ -1174,7 +1174,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Catering",
     "instagram": "@chrisevansevents",
     "phone": "510-495-7347",
-    "website": "www.chriseveansevents.com",
+    "website": "https://www.chriseveansevents.com",
     "other": ""
   },
   {
@@ -1214,7 +1214,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@dixonsrestaurant_",
     "phone": "510-567-3222",
-    "website": "www.yelp.com/biz/dixons-oakland-3",
+    "website": "https://www.yelp.com/biz/dixons-oakland-3",
     "other": ""
   },
   {
@@ -1224,7 +1224,7 @@ restaurants = Restaurant.create([
     "service": "Temp. closed",
     "instagram": "@drexlbar",
     "phone": "510-858-5398",
-    "website": "www.drexl.bar/",
+    "website": "https://www.drexl.bar/",
     "other": "Fundraiser"
   },
   {
@@ -1234,7 +1234,7 @@ restaurants = Restaurant.create([
     "service": "Catering",
     "instagram": "@epecevents",
     "phone": "510-274-8335",
-    "website": "www.eatplayeventsandcatering.com",
+    "website": "https://www.eatplayeventsandcatering.com",
     "other": ""
   },
   {
@@ -1264,7 +1264,7 @@ restaurants = Restaurant.create([
     "service": "Temp. closed",
     "instagram": "@enssarooakland",
     "phone": "510-238-9050",
-    "website": "www.enssaro.com/",
+    "website": "https://www.enssaro.com/",
     "other": ""
   },
   {
@@ -1304,7 +1304,7 @@ restaurants = Restaurant.create([
     "service": "Temp. closed",
     "instagram": "@fortgreenbar",
     "phone": "510-593-2172",
-    "website": "www.fortgreenoakland.com/",
+    "website": "https://www.fortgreenoakland.com/",
     "other": "Fundraiser"
   },
   {
@@ -1314,7 +1314,7 @@ restaurants = Restaurant.create([
     "service": "Delivery, Shipping, Events",
     "instagram": "@freerangeflowerwinery",
     "phone": "510-547-7173",
-    "website": "www.freerangeflowerwinery.com",
+    "website": "https://www.freerangeflowerwinery.com",
     "other": ""
   },
   {
@@ -1354,7 +1354,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@grandeurongrand",
     "phone": "510-879-7568",
-    "website": "www.grandeuroakland.com/",
+    "website": "https://www.grandeuroakland.com/",
     "other": ""
   },
   {
@@ -1374,7 +1374,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@gregorysgourmetdesserts",
     "phone": "510-272-9722",
-    "website": "www.gregorysgourmetdesserts.com/",
+    "website": "https://www.gregorysgourmetdesserts.com/",
     "other": ""
   },
   {
@@ -1414,7 +1414,7 @@ restaurants = Restaurant.create([
     "service": "Delivery",
     "instagram": "@hella_nuts",
     "phone": "510-463-1690",
-    "website": "www.thatshellanuts.com",
+    "website": "https://www.thatshellanuts.com",
     "other": ""
   },
   {
@@ -1424,7 +1424,7 @@ restaurants = Restaurant.create([
     "service": "Delivery",
     "instagram": "@hellateaoakland",
     "phone": "510-972-8327",
-    "website": "www.hellatea.com",
+    "website": "https://www.hellatea.com",
     "other": ""
   },
   {
@@ -1434,7 +1434,7 @@ restaurants = Restaurant.create([
     "service": "Delivery, Catering",
     "instagram": "@the_homeofchickenandwaffles",
     "phone": "510-836-4446",
-    "website": "www.homeofchickenandwaffles.com",
+    "website": "https://www.homeofchickenandwaffles.com",
     "other": ""
   },
   {
@@ -1444,7 +1444,7 @@ restaurants = Restaurant.create([
     "service": "Catering",
     "instagram": "@hornbarbecue",
     "phone": "408-648-3512",
-    "website": "www.hornbarbecue.com",
+    "website": "https://www.hornbarbecue.com",
     "other": ""
   },
   {
@@ -1464,7 +1464,7 @@ restaurants = Restaurant.create([
     "service": "Catering",
     "instagram": "@inthekitchenwithdominique",
     "phone": "510-328-9707",
-    "website": "www.youtu.be/ILMo54RAhOk",
+    "website": "https://www.youtu.be/ILMo54RAhOk",
     "other": ""
   },
   {
@@ -1474,7 +1474,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Catering",
     "instagram": "@itsallgoodbakery",
     "phone": "510-597-9700",
-    "website": "www.itsallgoodbakery.com/home.php",
+    "website": "https://www.itsallgoodbakery.com/home.php",
     "other": ""
   },
   {
@@ -1494,7 +1494,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery, Catering",
     "instagram": "@lala_icook4dapeople",
     "phone": "510-705-3721",
-    "website": "www.cheflalaharrison.com/",
+    "website": "https://www.cheflalaharrison.com/",
     "other": ""
   },
   {
@@ -1504,7 +1504,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@kefaoakland",
     "phone": "510-261-3400",
-    "website": "www.orderkefacoffee.com",
+    "website": "https://www.orderkefacoffee.com",
     "other": ""
   },
   {
@@ -1534,7 +1534,7 @@ restaurants = Restaurant.create([
     "service": "Temp. closed",
     "instagram": "@kubenicecream",
     "phone": "NA",
-    "website": "www.kubenicecream.com/",
+    "website": "https://www.kubenicecream.com/",
     "other": ""
   },
   {
@@ -1544,7 +1544,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@laneekefa",
     "phone": "510-628-0814",
-    "website": "www.facebook.com/LaneeKefaCoffee/",
+    "website": "https://www.facebook.com/LaneeKefaCoffee/",
     "other": ""
   },
   {
@@ -1554,7 +1554,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@lenas.soul.food.cafe",
     "phone": "510-957-5663",
-    "website": "www.lenassoulfoodcafe.com/",
+    "website": "https://www.lenassoulfoodcafe.com/",
     "other": ""
   },
   {
@@ -1564,7 +1564,7 @@ restaurants = Restaurant.create([
     "service": "Delivery",
     "instagram": "@level13oakland",
     "phone": "510-839-1999",
-    "website": "www.level13oakland.com",
+    "website": "https://www.level13oakland.com",
     "other": ""
   },
   {
@@ -1574,7 +1574,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@littlegiant_ic",
     "phone": "510-922-1426",
-    "website": "www.littlegianticecream.com/",
+    "website": "https://www.littlegianticecream.com/",
     "other": ""
   },
   {
@@ -1604,7 +1604,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@magnoliastwinelounge",
     "phone": "510-205-8540",
-    "website": "www.chefleilani.com",
+    "website": "https://www.chefleilani.com",
     "other": ""
   },
   {
@@ -1614,7 +1614,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@malibusburgers",
     "phone": "510-387-1018",
-    "website": "www.malibusburgers.com",
+    "website": "https://www.malibusburgers.com",
     "other": ""
   },
   {
@@ -1624,7 +1624,7 @@ restaurants = Restaurant.create([
     "service": "Pop Up, Takeout, Delivery",
     "instagram": "@manvsfries",
     "phone": "510-479-3449",
-    "website": "www.manvsfries.com",
+    "website": "https://www.manvsfries.com",
     "other": ""
   },
   {
@@ -1634,7 +1634,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@marzanorestaurant",
     "phone": "510-479-1448",
-    "website": "www.marzanorestaurant.com",
+    "website": "https://www.marzanorestaurant.com",
     "other": ""
   },
   {
@@ -1644,7 +1644,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@melabistrooakland",
     "phone": "510-844-4886",
-    "website": "www.melabistro.com/",
+    "website": "https://www.melabistro.com/",
     "other": ""
   },
   {
@@ -1664,7 +1664,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery, Catering",
     "instagram": "@eastoaklandsmoke",
     "phone": "510-701-3239",
-    "website": "www.mexiqnow.com/",
+    "website": "https://www.mexiqnow.com/",
     "other": ""
   },
   {
@@ -1684,7 +1684,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Grocery",
     "instagram": "@mintojamaicanmarket510",
     "phone": "510-652-2168",
-    "website": "www.mintojamaicanmarket.com",
+    "website": "https://www.mintojamaicanmarket.com",
     "other": ""
   },
   {
@@ -1694,7 +1694,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@missolliesoakland",
     "phone": "510-285-6188",
-    "website": "www.realmissolliesoakland.com/",
+    "website": "https://www.realmissolliesoakland.com/",
     "other": ""
   },
   {
@@ -1714,7 +1714,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "",
     "phone": "510-482-2500",
-    "website": "www.monaghansoakland.com",
+    "website": "https://www.monaghansoakland.com",
     "other": ""
   },
   {
@@ -1724,7 +1724,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@monifadayo",
     "phone": "",
-    "website": "www.instagram.com/monifadayo/",
+    "website": "https://www.instagram.com/monifadayo/",
     "other": ""
   },
   {
@@ -1734,7 +1734,7 @@ restaurants = Restaurant.create([
     "service": "Delivery, Catering",
     "instagram": "@montpericatering",
     "phone": "510-910-8821",
-    "website": "www.montpericatering.com/",
+    "website": "https://www.montpericatering.com/",
     "other": "Text to order. Menus on instagram."
   },
   {
@@ -1744,7 +1744,7 @@ restaurants = Restaurant.create([
     "service": "Shipping",
     "instagram": "@the_no_cookie",
     "phone": "510-261-5373",
-    "website": "www.nocookie.com/",
+    "website": "https://www.nocookie.com/",
     "other": ""
   },
   {
@@ -1774,7 +1774,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@phatmattsbbbq",
     "phone": "510-879-7294",
-    "website": "www.phatmattsbbq.com/",
+    "website": "https://www.phatmattsbbq.com/",
     "other": ""
   },
   {
@@ -1784,7 +1784,7 @@ restaurants = Restaurant.create([
     "service": "Delivery, Catering",
     "instagram": "@pleasureprinciplediningevents",
     "phone": "510-640-6259 ",
-    "website": "www.pleasureprinciplediningevents.com/",
+    "website": "https://www.pleasureprinciplediningevents.com/",
     "other": ""
   },
   {
@@ -1814,7 +1814,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Bean Delivery",
     "instagram": "@redbaycoffee",
     "phone": "510-399-2441",
-    "website": "www.redbaycoffee.com/",
+    "website": "https://www.redbaycoffee.com/",
     "other": ""
   },
   {
@@ -1854,7 +1854,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Catering",
     "instagram": "@rodericksbbq",
     "phone": "510-564-4648",
-    "website": "www.rodericksfoodtruck.com/",
+    "website": "https://www.rodericksfoodtruck.com/",
     "other": ""
   },
   {
@@ -1864,7 +1864,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@rushbowlsoakland",
     "phone": "510-590-9068",
-    "website": "www.rushbowls.com/oakland",
+    "website": "https://www.rushbowls.com/oakland",
     "other": ""
   },
   {
@@ -1874,7 +1874,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@ruthsbuka",
     "phone": "510-479-1238",
-    "website": "www.ruthsbuka.com",
+    "website": "https://www.ruthsbuka.com",
     "other": ""
   },
   {
@@ -1884,7 +1884,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Cateting",
     "instagram": "@salt_and_fire",
     "phone": "510-901-1188",
-    "website": "www.saltandfireoakland.com",
+    "website": "https://www.saltandfireoakland.com",
     "other": ""
   },
   {
@@ -1914,7 +1914,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@slidesandsides",
     "phone": "510-922-1405",
-    "website": "www.slidesnsides.com",
+    "website": "https://www.slidesnsides.com",
     "other": ""
   },
   {
@@ -1924,7 +1924,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@smokinwoodsbbq",
     "phone": "510-423-8634",
-    "website": "www.smokinwoodsbbq.com",
+    "website": "https://www.smokinwoodsbbq.com",
     "other": "also popping up at Tastebuds in SF!"
   },
   {
@@ -1934,7 +1934,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@sobremesaoak",
     "phone": "510-858-7544",
-    "website": "www.sobremesaoak.com/",
+    "website": "https://www.sobremesaoak.com/",
     "other": ""
   },
   {
@@ -1974,7 +1974,7 @@ restaurants = Restaurant.create([
     "service": "Temp. closed",
     "instagram": "@staygoldoakland",
     "phone": "510-350-8729",
-    "website": "www.staygolddeli.com",
+    "website": "https://www.staygolddeli.com",
     "other": ""
   },
   {
@@ -1994,7 +1994,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@sugarsweetoak",
     "phone": "510-924-7076",
-    "website": "www.sugarsweetoak.com",
+    "website": "https://www.sugarsweetoak.com",
     "other": ""
   },
   {
@@ -2004,7 +2004,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@superjuicedoakland",
     "phone": "510-628-0184",
-    "website": "www.oaklandisjuiced.com/",
+    "website": "https://www.oaklandisjuiced.com/",
     "other": ""
   },
   {
@@ -2024,7 +2024,7 @@ restaurants = Restaurant.create([
     "service": "Shipping",
     "instagram": "@teaswithmeaning",
     "phone": "510-629-0782",
-    "website": "www.withmeaning.org",
+    "website": "https://www.withmeaning.org",
     "other": ""
   },
   {
@@ -2034,7 +2034,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@tenieastkitchen",
     "phone": "510-597-1860",
-    "website": "www.tenieastkitchen.com",
+    "website": "https://www.tenieastkitchen.com",
     "other": ""
   },
   {
@@ -2054,7 +2054,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery, Pantry",
     "instagram": "@thecookandherfarmer",
     "phone": "510-285-6140",
-    "website": "www.thecookandherfarmer.com/",
+    "website": "https://www.thecookandherfarmer.com/",
     "other": "Fundraiser"
   },
   {
@@ -2064,7 +2064,7 @@ restaurants = Restaurant.create([
     "service": "Temp. closed",
     "instagram": "@thehatchoak",
     "phone": "650-488-1962",
-    "website": "www.thehatchoak.com/",
+    "website": "https://www.thehatchoak.com/",
     "other": ""
   },
   {
@@ -2074,7 +2074,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@thelumpiacompany",
     "phone": "510-835-5885",
-    "website": "www.thelumpiacompany.com",
+    "website": "https://www.thelumpiacompany.com",
     "other": ""
   },
   {
@@ -2084,7 +2084,7 @@ restaurants = Restaurant.create([
     "service": "Temp. closed",
     "instagram": "@themirandabar",
     "phone": "510-740-5760",
-    "website": "www.themirandaoakland.com/",
+    "website": "https://www.themirandaoakland.com/",
     "other": "Fundraiser"
   },
   {
@@ -2094,7 +2094,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@theveghub",
     "phone": "510-454-8722",
-    "website": "www.theveghub.com/",
+    "website": "https://www.theveghub.com/",
     "other": ""
   },
   {
@@ -2114,7 +2114,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery, Outdoor Dining",
     "instagram": "@tribunetavernoakland",
     "phone": "510-607-8187",
-    "website": "www.tribunetavernoakland.com",
+    "website": "https://www.tribunetavernoakland.com",
     "other": ""
   },
   {
@@ -2124,7 +2124,7 @@ restaurants = Restaurant.create([
     "service": "Delivery, Catering",
     "instagram": "@twochicksinthemix",
     "phone": "",
-    "website": "www.twochicksinthemix.com/",
+    "website": "https://www.twochicksinthemix.com/",
     "other": ""
   },
   {
@@ -2154,7 +2154,7 @@ restaurants = Restaurant.create([
     "service": "Catering, Takeout",
     "instagram": "@yahshibakes",
     "phone": "510-816-7247",
-    "website": "www.yahshibakes.com",
+    "website": "https://www.yahshibakes.com",
     "other": ""
   },
   {
@@ -2164,7 +2164,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@yamisdelicafe.1",
     "phone": "510-250-9756",
-    "website": "www.yammysethiopiancafe.com",
+    "website": "https://www.yammysethiopiancafe.com",
     "other": ""
   },
   {
@@ -2174,7 +2174,7 @@ restaurants = Restaurant.create([
     "service": "Temp. closed",
     "instagram": "@zellaskitchen",
     "phone": "510-604-5887",
-    "website": "www.zellassoulfulkitchen.com/",
+    "website": "https://www.zellassoulfulkitchen.com/",
     "other": ""
   },
   {
@@ -2184,7 +2184,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@suyaafricangrill",
     "phone": "510-835-7892",
-    "website": "www.suyaafricangrill.com/",
+    "website": "https://www.suyaafricangrill.com/",
     "other": ""
   },
   {
@@ -2194,7 +2194,7 @@ restaurants = Restaurant.create([
     "service": "Temp. closed",
     "instagram": "@suyaafricangrill",
     "phone": "510-465-7892",
-    "website": "www.suyaafricangrill.com/",
+    "website": "https://www.suyaafricangrill.com/",
     "other": ""
   },
   {
@@ -2214,7 +2214,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@jamesandthegiantcupcake",
     "phone": "510-879-7255",
-    "website": "www.jamesandthegiantcupcake.com/",
+    "website": "https://www.jamesandthegiantcupcake.com/",
     "other": ""
   },
   {
@@ -2234,7 +2234,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@jamesandthegiantcupcake",
     "phone": "510-879-7255",
-    "website": "www.jamesandthegiantcupcake.com/",
+    "website": "https://www.jamesandthegiantcupcake.com/",
     "other": ""
   },
   {
@@ -2244,7 +2244,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@jamesandthegiantcupcake",
     "phone": "510-879-7255",
-    "website": "www.jamesandthegiantcupcake.com/",
+    "website": "https://www.jamesandthegiantcupcake.com/",
     "other": ""
   },
   {
@@ -2254,7 +2254,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "",
     "phone": "415-412-3592",
-    "website": "www.shampaspies.com/",
+    "website": "https://www.shampaspies.com/",
     "other": ""
   },
   {
@@ -2264,7 +2264,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@coconutspaloalto",
     "phone": "650-329-9533",
-    "website": "www.coconutspaloalto.com/",
+    "website": "https://www.coconutspaloalto.com/",
     "other": ""
   },
   {
@@ -2274,7 +2274,7 @@ restaurants = Restaurant.create([
     "service": "Dine-in",
     "instagram": "@street_social",
     "phone": "707-772-6185",
-    "website": "www.streetsocial.social",
+    "website": "https://www.streetsocial.social",
     "other": ""
   },
   {
@@ -2284,7 +2284,7 @@ restaurants = Restaurant.create([
     "service": "Delivery",
     "instagram": "@thomastthomasvineyards",
     "phone": "510-375-8411",
-    "website": "www.thomastthomasvineyard.com/",
+    "website": "https://www.thomastthomasvineyard.com/",
     "other": ""
   },
   {
@@ -2294,7 +2294,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "",
     "phone": "925-777-3312",
-    "website": "www.omarschickenandwaffles.com/",
+    "website": "https://www.omarschickenandwaffles.com/",
     "other": ""
   },
   {
@@ -2404,7 +2404,7 @@ restaurants = Restaurant.create([
     "service": "Shipping",
     "instagram": "@bassnotesangria",
     "phone": "",
-    "website": "www.bassnotesangria.com",
+    "website": "https://www.bassnotesangria.com",
     "other": ""
   },
   {
@@ -2434,7 +2434,7 @@ restaurants = Restaurant.create([
     "service": "Catering",
     "instagram": "@camishascakes",
     "phone": "415-289-9898",
-    "website": "www.camishascakes.com/",
+    "website": "https://www.camishascakes.com/",
     "other": ""
   },
   {
@@ -2454,7 +2454,7 @@ restaurants = Restaurant.create([
     "service": "Catering",
     "instagram": "@danielstestkitchen",
     "phone": "415-638-0928",
-    "website": "www.facebook.com/danielstestkitchen/",
+    "website": "https://www.facebook.com/danielstestkitchen/",
     "other": ""
   },
   {
@@ -2504,7 +2504,7 @@ restaurants = Restaurant.create([
     "service": "Delivery, Catering",
     "instagram": "@theveganhoodchefs",
     "phone": "415-756-8996",
-    "website": "www.theveganhoodchefs.com/",
+    "website": "https://www.theveganhoodchefs.com/",
     "other": "Deliveries every Sunday from 3-6PM. You must pre-order"
   },
   {
@@ -2524,7 +2524,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@binstagramh_bbq_pop_up",
     "phone": "",
-    "website": "www.facebook.com/harold.agee.52",
+    "website": "https://www.facebook.com/harold.agee.52",
     "other": ""
   },
   {
@@ -2534,7 +2534,7 @@ restaurants = Restaurant.create([
     "service": "Temp. closed",
     "instagram": "@cafe_envy_sf",
     "phone": "415-800-7394",
-    "website": "www.facebook.com/CafeEnvySF/",
+    "website": "https://www.facebook.com/CafeEnvySF/",
     "other": ""
   },
   {
@@ -2564,7 +2564,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@radioafricakitchen",
     "phone": "415-420-2486",
-    "website": "www.radioafricakitchen.com",
+    "website": "https://www.radioafricakitchen.com",
     "other": ""
   },
   {
@@ -2594,7 +2594,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, delivery",
     "instagram": "@yespudding",
     "phone": "Contact via instagram",
-    "website": "www.grattawines.com",
+    "website": "https://www.grattawines.com",
     "other": "Available at Gratta Wines, Bayview"
   },
   {
@@ -2604,7 +2604,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@yvonnessouthernsweets",
     "phone": "415-368-7900 ",
-    "website": "www.yvonnessouthernsweets.com/",
+    "website": "https://www.yvonnessouthernsweets.com/",
     "other": ""
   },
   {
@@ -2614,7 +2614,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@littleskilletsf",
     "phone": "415-777-2777",
-    "website": "www.littleskilletsf.com/",
+    "website": "https://www.littleskilletsf.com/",
     "other": ""
   },
   {
@@ -2634,7 +2634,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@hazelbarsf",
     "phone": "",
-    "website": "www.hazelsf.com",
+    "website": "https://www.hazelsf.com",
     "other": ""
   },
   {
@@ -2644,7 +2644,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@ungrafted_sf",
     "phone": "415-814-2129",
-    "website": "www.ungraftedsf.com",
+    "website": "https://www.ungraftedsf.com",
     "other": ""
   },
   {
@@ -2664,7 +2664,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@excelsiorcoffeesf",
     "phone": "415-347-7333",
-    "website": "www.xlcrsf.com",
+    "website": "https://www.xlcrsf.com",
     "other": ""
   },
   {
@@ -2694,7 +2694,7 @@ restaurants = Restaurant.create([
     "service": "Temp. closed",
     "instagram": "@sheba_piano_lounge",
     "phone": "415-440-7414",
-    "website": "www.shebapianolounge.com/",
+    "website": "https://www.shebapianolounge.com/",
     "other": "Fundraiser"
   },
   {
@@ -2714,7 +2714,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "",
     "phone": "415-252-7912",
-    "website": "www.axumcafesf.com/",
+    "website": "https://www.axumcafesf.com/",
     "other": ""
   },
   {
@@ -2724,7 +2724,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "",
     "phone": "415-552-7390",
-    "website": "www.facebook.com/cafeinternational/",
+    "website": "https://www.facebook.com/cafeinternational/",
     "other": ""
   },
   {
@@ -2734,7 +2734,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "",
     "phone": "415-431-6290",
-    "website": "www.twojacksniksplace.com/",
+    "website": "https://www.twojacksniksplace.com/",
     "other": ""
   },
   {
@@ -2764,7 +2764,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "",
     "phone": "415-285-2728",
-    "website": "www.yelp.com/biz/cafe-ethiopia-san-francisco",
+    "website": "https://www.yelp.com/biz/cafe-ethiopia-san-francisco",
     "other": ""
   },
   {
@@ -2784,7 +2784,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@bissapbaobab",
     "phone": "415-826-9287",
-    "website": "www.bissapbaobab.com/",
+    "website": "https://www.bissapbaobab.com/",
     "other": ""
   },
   {
@@ -2804,7 +2804,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "",
     "phone": "",
-    "website": "www.nombesf.com/",
+    "website": "https://www.nombesf.com/",
     "other": ""
   },
   {
@@ -2824,7 +2824,7 @@ restaurants = Restaurant.create([
     "service": "Delivery",
     "instagram": "@terangalife",
     "phone": "415-879-8372",
-    "website": "www.terangajuice.com/",
+    "website": "https://www.terangajuice.com/",
     "other": ""
   },
   {
@@ -2834,7 +2834,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@gourmonade",
     "phone": "415-967-2411",
-    "website": "www.gourmonade.com/",
+    "website": "https://www.gourmonade.com/",
     "other": ""
   },
   {
@@ -2854,7 +2854,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "",
     "phone": "415-474-4900",
-    "website": "www.oasiscafesf.com/",
+    "website": "https://www.oasiscafesf.com/",
     "other": ""
   },
   {
@@ -2894,7 +2894,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@bellatrattoria",
     "phone": "415-221-0305",
-    "website": "www.bellatrattoriasf.com/",
+    "website": "https://www.bellatrattoriasf.com/",
     "other": "Fundraiser"
   },
   {
@@ -2914,7 +2914,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@yucataninsf",
     "phone": "415-548-2800",
-    "website": "www.taquerialosmayassf.com",
+    "website": "https://www.taquerialosmayassf.com",
     "other": ""
   },
   {
@@ -2924,7 +2924,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@tastebuds.sf",
     "phone": "415-668-9298",
-    "website": "www.sftastebuds.com/",
+    "website": "https://www.sftastebuds.com/",
     "other": ""
   },
   {
@@ -2934,7 +2934,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@localkitchensf",
     "phone": "415-777-4200",
-    "website": "www.sf-local.com",
+    "website": "https://www.sf-local.com",
     "other": ""
   },
   {
@@ -2944,7 +2944,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery, Catering",
     "instagram": "@ekokitchensf",
     "phone": "410-344-3362",
-    "website": "www.ekokitchensf.online/",
+    "website": "https://www.ekokitchensf.online/",
     "other": ""
   },
   {
@@ -2974,7 +2974,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@voodoolovesf",
     "phone": "415-516-9243",
-    "website": "www.voodoolovesf.com/",
+    "website": "https://www.voodoolovesf.com/",
     "other": ""
   },
   {
@@ -2984,7 +2984,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@internationalsmoke",
     "phone": "415-722-2138",
-    "website": "www.michaelmina.net/restaurants/international-smoke/san-francisco/",
+    "website": "https://www.michaelmina.net/restaurants/international-smoke/san-francisco/",
     "other": ""
   },
   {
@@ -3044,7 +3044,7 @@ restaurants = Restaurant.create([
     "service": "Temp. closed",
     "instagram": "@jackiesplacesj",
     "phone": "408-490-4653",
-    "website": "www.jackiecaters.com/",
+    "website": "https://www.jackiecaters.com/",
     "other": "Fundraiser"
   },
   {
@@ -3064,7 +3064,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@kategnarestaurant",
     "phone": "408-216-9695",
-    "website": "www.kategna.com/",
+    "website": "https://www.kategna.com/",
     "other": ""
   },
   {
@@ -3104,7 +3104,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "",
     "phone": "408-292-2282",
-    "website": "www.mudaiethiopiansanjose.com",
+    "website": "https://www.mudaiethiopiansanjose.com",
     "other": ""
   },
   {
@@ -3114,7 +3114,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "@sassykitchensj",
     "phone": "NA",
-    "website": "www.instagram.com/sassykitchensj/",
+    "website": "https://www.instagram.com/sassykitchensj/",
     "other": ""
   },
   {
@@ -3164,7 +3164,7 @@ restaurants = Restaurant.create([
     "service": "Catering",
     "instagram": "@andreamariecakes19",
     "phone": "925-255-6438",
-    "website": "www.andreamariecakes.com",
+    "website": "https://www.andreamariecakes.com",
     "other": ""
   },
   {
@@ -3174,7 +3174,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@iamcafe_ashland",
     "phone": "510-747-8662",
-    "website": "www.iamashland.com/",
+    "website": "https://www.iamashland.com/",
     "other": ""
   },
   {
@@ -3194,7 +3194,7 @@ restaurants = Restaurant.create([
     "service": "Delivery, Catering",
     "instagram": "@pinxcatering",
     "phone": "855-984-7469",
-    "website": "www.pinxcatering.com/",
+    "website": "https://www.pinxcatering.com/",
     "other": ""
   },
   {
@@ -3204,7 +3204,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "",
     "phone": "510-567-3955",
-    "website": "www.scendsrestaurant.com/",
+    "website": "https://www.scendsrestaurant.com/",
     "other": ""
   },
   {
@@ -3224,7 +3224,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Delivery",
     "instagram": "",
     "phone": "510-674-9224",
-    "website": "www.theoscheesesteak.com/",
+    "website": "https://www.theoscheesesteak.com/",
     "other": ""
   },
   {
@@ -3264,7 +3264,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@forrestfirebbq",
     "phone": "628-800-3473",
-    "website": "www.forrestfirebbq.com",
+    "website": "https://www.forrestfirebbq.com",
     "other": ""
   },
   {
@@ -3284,7 +3284,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@cafefridagallery",
     "phone": "707-308-4344",
-    "website": "www.cafefridagallery.com/",
+    "website": "https://www.cafefridagallery.com/",
     "other": ""
   },
   {
@@ -3294,7 +3294,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "",
     "phone": "707-568-6455",
-    "website": "www.my-abyssinia.com/",
+    "website": "https://www.my-abyssinia.com/",
     "other": ""
   },
   {
@@ -3304,7 +3304,7 @@ restaurants = Restaurant.create([
     "service": "Delivery, Catering",
     "instagram": "",
     "phone": "707-687-9014",
-    "website": "www.theredrosecatering.com/",
+    "website": "https://www.theredrosecatering.com/",
     "other": ""
   },
   {
@@ -3334,7 +3334,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "",
     "phone": "707-827-3665",
-    "website": "www.facebook.com/PackJackBBQ",
+    "website": "https://www.facebook.com/PackJackBBQ",
     "other": ""
   },
   {
@@ -3344,7 +3344,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Shipping",
     "instagram": "@corner103",
     "phone": "707-931-6141",
-    "website": "www.corner103.com/",
+    "website": "https://www.corner103.com/",
     "other": ""
   },
   {
@@ -3364,7 +3364,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@birdhausbeergarden",
     "phone": "",
-    "website": "www.birdhausbeergarden.com",
+    "website": "https://www.birdhausbeergarden.com",
     "other": ""
   },
   {
@@ -3374,7 +3374,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@hippiesbrew",
     "phone": "510-461-8629",
-    "website": "www.hippiesbrew.com/",
+    "website": "https://www.hippiesbrew.com/",
     "other": ""
   },
   {
@@ -3384,7 +3384,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@purejuicelounge",
     "phone": "510-400-9033",
-    "website": "www.purejuiceandsmoothie.com/",
+    "website": "https://www.purejuiceandsmoothie.com/",
     "other": ""
   },
   {
@@ -3424,7 +3424,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "",
     "phone": "707-644-4885",
-    "website": "www.hummingbirddesserts.com/",
+    "website": "https://www.hummingbirddesserts.com/",
     "other": ""
   },
   {
@@ -3444,7 +3444,7 @@ restaurants = Restaurant.create([
     "service": "Takeout",
     "instagram": "@red_ringribs",
     "phone": "707-310-5064",
-    "website": "www.facebook.com/REDRINGRIBS/",
+    "website": "https://www.facebook.com/REDRINGRIBS/",
     "other": ""
   },
   {
@@ -3464,7 +3464,7 @@ restaurants = Restaurant.create([
     "service": "Catering",
     "instagram": "@spicygirlmealprep",
     "phone": "",
-    "website": "www.spicygirlmealprep.com/",
+    "website": "https://www.spicygirlmealprep.com/",
     "other": ""
   },
   {
@@ -3474,7 +3474,7 @@ restaurants = Restaurant.create([
     "service": "Takeout, Catering",
     "instagram": "@yesmysweetbbq",
     "phone": "707-731-2780",
-    "website": "www.yesmysweet.com/",
+    "website": "https://www.yesmysweet.com/",
     "other": ""
   }
 ])
