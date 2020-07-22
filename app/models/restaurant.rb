@@ -53,7 +53,7 @@ class Restaurant < ApplicationRecord
   def seed_yelp_data
     Restaurant.all.each do |restaurant|
       if !restaurant.image_url
-        response = HTTP.auth("Bearer f92pUdbrUEEVj7HV5b_prLinnalo7C8bwS1L4ud1Nx_RJABEUpQMXc-vfp3YPlk9mwNSwkCFogIIsJHAWtOxAp9Hrl1Hd6wEMg42ICSkn3JoH21lGScTayIAqcwXX3Yx").get("https://api.yelp.com/v3/businesses/search?term=#{restaurant.name.gsub(' ', '%20')}&location=#{restaurant.location.gsub(' ', '%20')}")
+        response = HTTP.auth("Bearer #{api_key}").get("https://api.yelp.com/v3/businesses/search?term=#{restaurant.name.gsub(' ', '%20')}&location=#{restaurant.location.gsub(' ', '%20')}")
         if response.parse["businesses"].length >= 1
           yelp_body = response.parse["businesses"][0]
           if yelp_body  
