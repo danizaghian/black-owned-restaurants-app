@@ -10,5 +10,6 @@
   other: restaurant.other,
   lat: restaurant.lat,
   long: restaurant.long,
-  address: restaurant.address
+  address: restaurant.address,
+  image_url: restaurant.image_url
 }
