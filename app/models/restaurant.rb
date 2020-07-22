@@ -13,6 +13,16 @@ class Restaurant < ApplicationRecord
     end
   end
 
+  def geocode_single_address
+    results = Geocoder.search("#{address}")
+    if results.first
+      update(
+        lat: results.first.coordinates[0],
+        long: results.first.coordinates[1]
+      )
+    end
+  end
+
   def geocode_by_address
     Restaurant.all.each do |restaurant|
       if !restaurant.lat || !restaurant.long
