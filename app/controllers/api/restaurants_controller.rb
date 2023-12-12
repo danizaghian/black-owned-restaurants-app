@@ -1,7 +1,6 @@
 class Api::RestaurantsController < ApplicationController
-  
   def index
     @restaurants = Restaurant.all
-    render "index.json.jb"
+    render json: @restaurants
   end
 end

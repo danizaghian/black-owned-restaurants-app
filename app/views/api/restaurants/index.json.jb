@@ -1,3 +1,0 @@
-@restaurants.map do |restaurant|
-  render partial: "restaurant.json.jb", locals: {restaurant: restaurant}
-end
